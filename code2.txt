@@ -1,0 +1,8 @@
+#include <stdio.h>
+#define cc "this is"
+int main() {
+    printf("%s charu\n",cc);
+    printf("%s cse-a\n",cc);
+    printf("%s 203 class room",cc);
+    return 0;
+}
